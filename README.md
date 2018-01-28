@@ -10,5 +10,5 @@ a collection of custom builds of tensorflow with avx2 support
 |[faisalthaheem](https://github.com/faisalthaheem/tensorflow-windows)|1.4|35|CPU|
 
 
-## Linux and Mac
-refer to this good entry: [lakshayg](https://github.com/lakshayg/tensorflow-build), including TF1.1-1.4,PY27/35/36, CPU/GPU
+## linux and macosx
+Refer to this good entry: [lakshayg](https://github.com/lakshayg/tensorflow-build), which includes TF1.1-1.4, PY27/35/36, CPU/GPU
