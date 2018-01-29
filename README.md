@@ -3,15 +3,17 @@ a collection of custom builds of tensorflow with avx2 support
 
 
 ## windows
+note: only collect latest versions of tensorflow (1.4+) 
+
 |link|TF|PY|CPU/GPU|
 |---|---|---|---|
+|[fo40225](https://github.com/fo40225/tensorflow-windows-wheel)|1.4, 1.5|36|CPU, GPU|
 |[aluo-x](https://github.com/aluo-x/tensorflow_windows)|1.4|36|CPU|
-|[fo40225](https://github.com/fo40225/tensorflow-windows-wheel)|1.4|36|CPU,GPU|
 |[faisalthaheem](https://github.com/faisalthaheem/tensorflow-windows)|1.4|35|CPU|
 
 
 ## linux and macosx
-Refer to this good entry: [lakshayg](https://github.com/lakshayg/tensorflow-build), which includes TF1.1-1.4, PY27/35/36, CPU/GPU
+Refer to this good entry: [lakshayg](https://github.com/lakshayg/tensorflow-build), which includes TF1.1-1.5, PY27/35/36, CPU/GPU
 
 
 ## miscellaneous
