@@ -7,9 +7,9 @@ note: only collect latest versions of tensorflow (1.4+)
 
 |link|TF|PY|CPU/GPU|
 |---|---|---|---|
-|[fo40225](https://github.com/fo40225/tensorflow-windows-wheel)|1.4, 1.5|36|CPU, GPU|
-|[aluo-x](https://github.com/aluo-x/tensorflow_windows)|1.4|36|CPU|
-|[faisalthaheem](https://github.com/faisalthaheem/tensorflow-windows)|1.4|35|CPU|
+|[fo40225](https://github.com/fo40225/tensorflow-windows-wheel)|1.4-1.8|36|CPU, GPU|
+|[aluo-x](https://github.com/aluo-x/tensorflow_windows)|1.5|36|CPU|
+|[faisalthaheem](https://github.com/faisalthaheem/tensorflow-windows)|1.4-1.7|35|CPU|
 
 
 ## linux and macosx
